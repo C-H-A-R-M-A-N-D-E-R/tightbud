@@ -1,2 +1,2 @@
-# tightbud
+# TightBud
 Zip File
